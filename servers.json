@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "my server",
+            "address": "https://swamsannisettecontainer.yellowrock-7ec11634.southindia.azurecontainerapps.io"
+        }
+    ]
+}
